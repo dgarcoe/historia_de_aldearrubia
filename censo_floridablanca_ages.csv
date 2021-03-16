@@ -1,0 +1,15 @@
+Age range,Women,Men,Status
+<7,86,94,Solteros
+7-16,39,46,Solteros
+16-25,55,66,Solteros
+16-25,12,12,Casados
+16-25,1,1,Viudos
+25-40,8,15,Solteros
+25-40,34,34,Casados
+25-40,6,3,Viudos
+40-50,6,6,Solteros
+40-50,31,31,Casados
+40-50,9,17,Viudos
+>50,1,0,Solteros
+>50,49,49,Casados
+>50,1,1,Viudos
